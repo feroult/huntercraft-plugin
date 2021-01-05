@@ -1,0 +1,8 @@
+name: huntercraft
+description: ${project.description}
+#website: x.com
+
+author: shaper/NetHunter
+version: 0.1
+
+main: huntercraft.HunterCraftPlugin
